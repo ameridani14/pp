@@ -24,7 +24,7 @@ palabras_peligrosas = [
 ]
 
 # Título principal
-st.markdown("## 🛡️ Scrabuster 60+")
+st.markdown("## 🛡️ Scrambuster 60+")
 st.markdown("### Detector de mensajes sospechosos en redes sociales")
 st.info("👵👴 Herramienta pensada para adultos mayores. Copia aquí el mensaje que recibiste y lo analizaremos por ti.")
 
